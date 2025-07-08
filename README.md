@@ -1,18 +1,35 @@
 ## Welcome, to my GitHub page! 
-<h3>My name is Connor, and I am a senior computer science major at Georgia Southern University</h3>
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajE3ZDV1c2RraThpemZnc2E2YWoyMGlvazFtemNiOXIyZ2doZzA2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cODhil52Bt6hkzkXlt/giphy.gif
+<h1>My name is Connor, and I am a senior computer science major at Georgia Southern University</h1>
+![Georgia Southern Drone GIF by Georgia Southern University - Auxiliary Services (1)](https://github.com/user-attachments/assets/410886bf-f766-45e6-8aed-00573a11a874)
 
-<!--
-**connorGS9/connorGS9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Some of the fields / things I have an interest in</h2>
+✦•·····················•✦•······················•✦ ✦•······················•✦•······················•✦ ✦•······················•✦•······················•✦✦•·····················•✦•······················•✦ 
 
-Here are some ideas to get you started:
+  • Software development, Java is my main language and recently I have been learning and using Spring services like Boot and JPA for the backend of web apps 🍵
+  • Machine learning and the design of models that will likely only continue to play a larger part in all of our futures 🤖
+  • Competitive programming and algorithm design 🏅
+  • Interworking of ditributed / scalable systems 🌐
+  • Learning multiple languages - currently I can code *something* in C++, C, C#, and python 🐍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ✦•·····················•✦•······················•✦ ✦•······················•✦•······················•✦ ✦•······················•✦•······················•✦✦•·····················•✦•······················•✦ 
+
+  <h2>Check out my website!</h2>
+  <p>The code is here in a repository and is my first experience using vite 🙂
+                         http://connor-dev.us
+  </p>
+
+  <h5>I hope you find something I do interesting, and if you have any shared interests or would like to be friends feel free to interact on any of my socials or discord below</h5>
+  <h5>I am always looking to meet and speak to new people in the 'tech space' if you are particularly interested in mock interviews / competitive programming send me a message on discord: @chedwin__ </h5>
+                                                                                      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡇⠀⠀⠀⠀⠀⠀⠀
+                                                                                    ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣾⠟⠀⣀⣠⠄⠀⠀⠀⠀
+                                                                                    ⠀⠀⠀⠀⠀⠀⢠⣶⣿⠟⠁⢠⣾⠋⠁⠀⠀⠀⠀⠀
+                                                                                    ⠀⠀⠀⠀⠀⠀⠹⣿⡇⠀⠀⠸⣿⡄⠀⠀⠀⠀⠀⠀
+                                                                                    ⠀⠀⠀⠀⠀⠀⠀⠙⠷⡀⠀⠀⢹⠗⠀⠀⠀⠀⠀⠀
+                                                                                    ⠀⠀⢀⣤⣴⡖⠒⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠒⢶⣄
+                                                                                    ⠀⠀⠈⠙⢛⣻⠿⠿⠿⠟⠛⠛⠛⠋⠉⠀⠀⠀⣸⡿
+                                                                                    ⠀⠀⠀⠀⠛⠿⣷⣶⣶⣶⣶⣾⠿⠗⠂⠀⢀⠴⠛⠁
+                                                                                    ⠀⠀⠀⠀⠀⢰⣿⣦⣤⣤⣤⣴⣶⣶⠄⠀⠀⠀⠀⠀
+                                                                                    ⣀⣤⡤⠄⠀⠀⠈⠉⠉⠉⠉⠉⠀⠀⠀⠀⢀⡀⠀⠀
+                                                                                    ⠻⣿⣦⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣠⣴⠾⠃⠀⢀
+                                                                                    ⠀⠀⠈⠉⠛⠛⠛⠛⠛⠛⠛⠛⠋⠉⠁⠀⣀⣤⡶⠋
+                                                                                    ⠀⠀⠀⠀⠐⠒⠀⠠⠤⠤⠤⠶⠶⠚⠛⠛⠉⠀⠀⠀      
