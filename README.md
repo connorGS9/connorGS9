@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome, to my GitHub page! 
+<h3>My name is Connor, and I am a senior computer science major at Georgia Southern University</h3>
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajE3ZDV1c2RraThpemZnc2E2YWoyMGlvazFtemNiOXIyZ2doZzA2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cODhil52Bt6hkzkXlt/giphy.gif
 
 <!--
 **connorGS9/connorGS9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
