@@ -1,5 +1,5 @@
 ## Welcome, to my GitHub page! 
-<h1>My name is Connor, and I'm a computer science major at Georgia Southern University</h1>
+<h1>My name is Connor, a computer science major at Georgia Southern University</h1>
 ![Georgia Southern Drone GIF by Georgia Southern University - Auxiliary Services (1)](https://github.com/user-attachments/assets/410886bf-f766-45e6-8aed-00573a11a874)
 
 <h2>Some of the fields / things I have an interest in</h2>
