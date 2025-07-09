@@ -5,11 +5,11 @@
 <h2>Some of the fields / things I have an interest in</h2>
 ✦•·····················•✦•······················•✦ ✦•······················•✦•······················•✦ ✦•······················•✦•······················•✦✦•·····················•✦•······················•✦ 
 
-  • Software development, Java is my main language and recently I have been learning and using Spring services like Boot and JPA for the backend of web apps 🍵
-  • Machine learning and the design of models that will likely only continue to play a larger part in all of our futures 🤖
-  • Competitive programming and algorithm design 🏅
-  • Interworking of ditributed / scalable systems 🌐
-  • Learning multiple languages - currently I can code *something* in C++, C, C#, and python 🐍
+  <h4>• Software development, Java is my main language and recently I have been learning and using Spring services like Boot and JPA for the backend of web apps 🍵</h4>
+  <h4>• Machine learning and the design of models that will likely only continue to play a larger part in all of our futures 🤖</h4>
+  <h4>• Competitive programming and algorithm design 🏅</h4>
+  <h4>• Interworking of ditributed / scalable systems 🌐</h4>
+  <h4>• Learning multiple languages - currently I can code *something* in C++, C, C#, and python 🐍</h4>
 
   ✦•·····················•✦•······················•✦ ✦•······················•✦•······················•✦ ✦•······················•✦•······················•✦✦•·····················•✦•······················•✦ 
 
