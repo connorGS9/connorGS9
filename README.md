@@ -21,9 +21,8 @@
   <h5>I hope you find something I do interesting, and if you have any shared interests or would like to be friends feel free to interact on any of my socials or discord below</h5>
   <h5>I am always looking to meet and speak to new people in the 'tech space' if you are particularly interested in mock interviews / competitive programming send me a message on discord: @chedwin__ </h5>
 
-
+<h5>To all developers who are working towards something they have passion for, don't give up! ↓</h5>
 <h3>I've missed more than 9,000 shots in my career... I've failed over and over and over again in my life. And that is why I succeed.</h3>
--
 <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnUxMGpqczc0N216MGZyYmwzZ21lYXFxeWlhZml5NWJ0ZjhlanMyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fT1KbPjFUp77rN5VwD/giphy.gif />
 
 
