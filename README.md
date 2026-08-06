@@ -46,7 +46,7 @@ A streaming backend where users upload raw video that's transcoded with FFmpeg, 
 
 Java  Spring Boot  TypeScript  AWS S3  FFmpeg  PostgreSQL
 
-<a href="[https://github.com/connorGS9](https://github.com/connorGS9/Back-testing-Engine-and-Analysis-tool)"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/connorGS9/VideoStreamingService"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 <!-- ^ Replace this link with your actual Video Streaming repo URL -->
 📈 Stock Strategy Backtester  <img src="https://img.shields.io/badge/In_Progress-F9A825?style=flat-square" />
