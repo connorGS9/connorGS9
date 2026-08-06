@@ -55,7 +55,7 @@ A backtesting engine that replays recorded market data so users can run trading 
 
 C++  Python  Data Analysis
 
-<a href="https://github.com/connorGS9"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/connorGS9/Back-testing-Engine-and-Analysis-tool"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 <!-- ^ Replace this link with your actual Backtester repo URL -->
 📊 GitHub Stats
