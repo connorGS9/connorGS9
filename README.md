@@ -74,7 +74,7 @@ Find me on [Discord](https://discord.com/users/chedwin__), username `chedwin__`.
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-sigma-pink.vercel.app/api?username=connorGS9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=connorGS9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=connorGS9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
