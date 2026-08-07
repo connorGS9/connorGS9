@@ -1,7 +1,6 @@
 <div align="center">
 
-# Connor Smith
-**Full-Stack / Backend Software Engineer**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F4F4F,100:F2B455&height=200&section=header&text=Connor%20Smith&fontSize=58&fontColor=F2B455&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%2F%20Backend%20Software%20Engineer&descSize=18&descAlignY=56" width="100%" />
 
 [LinkedIn](https://www.linkedin.com/in/connor-smith-6857b22b5/) · [Email](mailto:connorgsmith2020@gmail.com) · [GitHub](https://github.com/connorGS9) · [Website](https://connorGS9.github.io)
 
@@ -86,6 +85,4 @@ Find me on [Discord](https://discord.com/users/chedwin__), username `chedwin__`.
 **Reach out:** [LinkedIn](https://www.linkedin.com/in/connor-smith-6857b22b5/) · [Email](mailto:connorgsmith2020@gmail.com) · [Website](https://connorGS9.github.io) · Discord: `chedwin__`
 
 </div>
-
-
 
